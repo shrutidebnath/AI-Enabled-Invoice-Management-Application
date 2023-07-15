@@ -1,0 +1,55 @@
+.addDataContainer {
+  height: 82.5vh;
+  width: 100%;
+  background-color: #4f4f4f;
+  color: #ffffff;
+  border: none !important;
+}
+
+.Form {
+  padding: 30px;
+}
+
+.row {
+  display: flex;
+  margin-bottom: 10px;
+}
+.firstHalf {
+  display: flex;
+  flex: 1;
+}
+
+.oneForth {
+  margin: 4px !important;
+}
+
+.twoForth {
+  margin: 4px !important;
+}
+.secondHalf {
+  margin-left: 4px !important;
+  display: flex;
+  flex: 1;
+}
+
+.buttonContainer {
+  display: flex;
+}
+.buttonContainer > button {
+  margin: 4px;
+}
+
+.datePickerContainer {
+  width: 100%;
+  background-color: white;
+  border-radius: 4px;
+}
+
+.datePickerContainer > div {
+  margin-top: 8px;
+  margin-left: 6px;
+}
+
+.datePickerContainer:has(*) .MuiSvgIcon-root {
+  color: black !important;
+}

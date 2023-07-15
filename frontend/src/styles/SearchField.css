@@ -1,0 +1,14 @@
+.MuiInputLabel-root {
+  font-size: 14px !important;
+}
+
+.searchButton {
+  font-size: 11px !important;
+  width: 80px !important;
+  min-height: 46px;
+  margin: auto 8px auto 2px !important;
+}
+
+.redButton {
+  color: white !important;
+}

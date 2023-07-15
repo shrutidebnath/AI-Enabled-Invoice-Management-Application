@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [25/Jun/2023:02:00:27 +0530] "GET /h2h_backend/DataLoadingServlet HTTP/1.1" 200 1015909
+0:0:0:0:0:0:0:1 - - [25/Jun/2023:02:14:12 +0530] "GET /h2h_backend/DataLoadingServlet HTTP/1.1" 404 682
+127.0.0.1 - - [25/Jun/2023:02:14:41 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [25/Jun/2023:02:14:42 +0530] "GET /h2h_backend/AddServlet HTTP/1.1" 405 751
+0:0:0:0:0:0:0:1 - - [25/Jun/2023:02:14:47 +0530] "GET /h2h_backend/DataLoadingServlet HTTP/1.1" 200 1015909
+0:0:0:0:0:0:0:1 - - [25/Jun/2023:02:14:49 +0530] "GET /h2h_backend/DataLoadingServlet HTTP/1.1" 200 1015909
+127.0.0.1 - - [25/Jun/2023:20:05:19 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [25/Jun/2023:20:05:20 +0530] "GET /h2h_backend/AddServlet HTTP/1.1" 405 751
+0:0:0:0:0:0:0:1 - - [25/Jun/2023:20:06:29 +0530] "GET /h2h_backend/DataLoadingServlet HTTP/1.1" 200 1015909
+0:0:0:0:0:0:0:1 - - [25/Jun/2023:20:13:41 +0530] "GET /h2h_backend/DataLoadingServlet HTTP/1.1" 200 1015909
+0:0:0:0:0:0:0:1 - - [25/Jun/2023:22:23:09 +0530] "GET /h2h_backend/DataLoadingServlet HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [25/Jun/2023:22:23:10 +0530] "GET /h2h_backend/DataLoadingServlet HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [25/Jun/2023:22:32:43 +0530] "GET /h2h_backend/DataLoadingServlet HTTP/1.1" 404 682

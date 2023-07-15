@@ -1,0 +1,9 @@
+.MuiTabs-flexContainer {
+  background-color: #4f4f4f;
+  color: white;
+  height: 8vh;
+}
+
+.MuiTabs-indicator {
+  background-color: white !important;
+}

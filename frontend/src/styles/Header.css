@@ -1,0 +1,27 @@
+.headerClass {
+  padding: 5px 5px 5px 5px;
+  height: 8vh;
+  background-color: rgb(249, 249, 249);
+}
+.imgContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.firstImg > img {
+  height: 28px;
+  width: 150px;
+}
+
+.secondImg > img {
+  height: 28px;
+  width: 150px;
+}
+.thirdHead {
+  width: 150px;
+}
+.headerClass > h3 {
+  color: red;
+  margin-top: 0px;
+  padding-top: 0px;
+}

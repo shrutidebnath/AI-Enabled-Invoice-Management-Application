@@ -1,0 +1,32 @@
+.gridBox {
+  height: 82.5vh;
+  width: 100%;
+  background-color: #4f4f4f;
+  color: #ffffff;
+  border: none !important;
+}
+
+.MuiList-root {
+  background-color: #4f4f4f;
+  color: #ffffff;
+}
+
+.gridCell {
+  border: none !important;
+  color: white;
+}
+
+.MuiTablePagination-selectLabel,
+.MuiTablePagination-displayedRows,
+.MuiSelect-standard,
+.MuiSvgIcon-root,
+.MuiTablePagination-selectIcon {
+  color: white !important;
+}
+
+.MuiDataGrid-iconSeparator {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}

@@ -1,0 +1,7 @@
+127.0.0.1 - - [09/Jul/2023:19:06:24 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [09/Jul/2023:19:06:26 +0530] "GET /h2h_backend/AddServlet HTTP/1.1" 405 751
+0:0:0:0:0:0:0:1 - - [09/Jul/2023:19:06:52 +0530] "GET /h2h_backend/DataLoadingServlet HTTP/1.1" 200 1015923
+0:0:0:0:0:0:0:1 - - [09/Jul/2023:19:06:57 +0530] "GET /h2h_backend/DataLoadingServlet HTTP/1.1" 200 1015923
+0:0:0:0:0:0:0:1 - - [09/Jul/2023:19:07:05 +0530] "OPTIONS /h2h_backend/DataEditingServlet HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [09/Jul/2023:19:07:05 +0530] "PUT /h2h_backend/DataEditingServlet HTTP/1.1" 200 26
+0:0:0:0:0:0:0:1 - - [09/Jul/2023:19:07:05 +0530] "GET /h2h_backend/DataLoadingServlet HTTP/1.1" 200 1015936
